@@ -1,0 +1,15 @@
+
+.down-arrow {
+  height: 100px;
+  transition: 0.4s;
+}
+
+.down-arrow:hover {
+ color: #53f6c7;
+}
+
+.logo {
+  color: #53f6c7;
+  padding-right: 0.7rem;
+  padding-bottom: 0.6rem;
+}
